@@ -3,7 +3,7 @@
 ## Autor
 Chen Yuqing - A108397
 
-<img src="../imagens/foto.jpg" width="150">
+<img src="../imagens/foto.jpg" width="120">
 
 ## Resumo
 Neste trabalho foi desenvolvido em Python um conversor simples de listas numeradas em Markdown para HTML.
