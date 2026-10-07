@@ -1,7 +1,8 @@
-## $Strings Binárias \nsubseteq "011"$
+## # Strings binárias que não contêm `"011"`
 
 ## Autor
 Chen Yuqing - A108397
+
 <img src="../imagens/foto.jpg" width="120">
 
 ## Resumo
