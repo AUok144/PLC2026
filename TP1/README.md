@@ -1,4 +1,4 @@
-## # Strings binárias que não contêm `"011"`
+## TPC1: Strings binárias que não contêm `"011"`
 
 ## Autor
 Chen Yuqing - A108397
